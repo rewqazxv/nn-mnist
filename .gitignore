@@ -1,0 +1,9 @@
+# IDE
+.vscode/
+.idea/
+
+# download
+/data/
+
+# product
+/models/
